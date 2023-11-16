@@ -1,6 +1,6 @@
 ## Program Packages
 
-| Package | Description | Version | Docs |
+| Package | Description | Version | Docs | Issues
 | :-- | :-- | :--| :-- |
 | `spl-token` | ERC20-like token program on Solana | [![Crates.io](https://img.shields.io/crates/v/spl-token)](https://crates.io/crates/spl-token) | [![Docs.rs](https://docs.rs/spl-token/badge.svg)](https://docs.rs/spl-token) |
 | `spl-token-2022` | Token program compatible with `spl-token`, with extensions | [![Crates.io](https://img.shields.io/crates/v/spl-token-2022)](https://crates.io/crates/spl-token-2022) | [![Docs.rs](https://docs.rs/spl-token-2022/badge.svg)](https://docs.rs/spl-token-2022) |
